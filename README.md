@@ -1,2 +1,2 @@
-# Java_Class
-DSU College Assignment
+# Java Class
+Dayanand Sagar University College Assignment
